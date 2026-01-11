@@ -16,7 +16,7 @@ const HeroSection = () => (
     <div className="relative h-full flex items-center justify-center">
       <div className="text-center px-4 sm:px-6 lg:px-8 max-w-3xl mx-auto">
         <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold text-foreground mb-4 tracking-tight">
-          Ihr Friseursalon für elegante Vielfalt
+          Ihr Friseursalon für elegante Vielfalt mit Niveau!
         </h1>
         <p className="text-lg sm:text-xl text-muted-foreground mb-8 font-light">
           Professionalität trifft Kreativität – Wir verwandeln Ihre Haare in ein Kunstwerk
